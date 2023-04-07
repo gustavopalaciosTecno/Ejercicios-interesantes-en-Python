@@ -12,6 +12,7 @@ try:
 except Exception as e:        
         print('introduce valores numéricos solamente', e)        
 """    
+
 # segundo método
 while True:
     num = input("Ingresa un número (o 'salir' para terminar): ")
